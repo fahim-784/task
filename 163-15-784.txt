@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+    <head>
+        <title>Fahim ahmed turza</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body bgcolor="white">
+        
+        <div id="first">
+
+            <div id="center">
+                
+            <p id="about"> <em>My self &nbsp<b>Fahim ahmed turza</b>. I am from Barishal.My school was Adamjee cantonment public school and my college was also Adamjee.Currenty I am studying Computer Science and  Engineering at Daffodil International University.
+             </em></p>
+
+             <p id="quot">DO or die</p>
+    
+            <h><em>I am readsy to take risk</em></h>
+            <h3>Skills</h3>
+            <hr/>
+
+            
+                <div id="inner_left">
+                    
+                    <dl>
+                        <dt>Programing language</dt>
+                        <ul>
+                            <li>C</li>
+                            <li>still learning python</li>
+                            
+                            
+                            
+                        </ul>
+                    </dl>
+
+                    
+                    <dl>
+                        <dt>Tools</dt>
+                        <ul>
+                        <li>Git & Github</li>
+                        <li>Code blocks</li>
+                        <li>Eclips</li>
+                        
+                        </ul>
+                    </dl> 
+                </div>
+
+            <div id="hobby">
+                <br>
+                 <h3>Hobbies</h3>
+                <hr/>
+                <p><em>Gardenning , palying games, bike riding etc </em></p>
+
+                 </br> </div>
+            
+
+
+
+            <div id="left"> 
+                <a href="https://www.facebook.com/fahimahmed.turja target="blank"> <em>Facebook</em> </a>
+                <br><a href="mailto:fahim15-784@diu.edu.bd" target="blank"> <em>Email</em> </a>
+                </br>
+                <br><a href="tel:+01764913642" target="blank" id="common"> <em>Phone</em> </a>
+            </div>
+
+            <div id="right">
+                <img src="turja.jpg" width="100px" height="100px" style="float:right" alt="Image">
+                <a id="sec1" href="#hobby">Hobby</a>
+            </div>
+
+            
+        </div>
+
+        
+
+    </body>
+</html>
